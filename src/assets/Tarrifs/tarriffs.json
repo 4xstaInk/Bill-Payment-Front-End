@@ -1,0 +1,13 @@
+[
+  { "Amount": "1", "charged": "0.055" },
+  { "Amount": "2", "charged": "0.11" },
+  { "Amount": "5", "charged": "0.28" },
+  { "Amount": "10", "charged": "0.55" },
+  { "Amount": "20", "charged": "1.1" },
+  { "Amount": "50", "charged": "2.75" },
+  { "Amount": "100", "charged": "5.51" },
+  { "Amount": "150", "charged": "8.26" },
+  { "Amount": "300", "charged": "16.52" },
+  { "Amount": "500", "charged": "27.53" }
+  
+]
